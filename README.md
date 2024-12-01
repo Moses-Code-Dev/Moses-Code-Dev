@@ -22,8 +22,8 @@ Join us in building a future where food security is a universal right, and help 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Moses-Code-Dev/Djowda-UserApp2">
-        <img src="./Asset/User_App.png" alt="User App" width="150"/>
+      <a href="https://github.com/Moses-Code-Dev/Djowda-UserApp">
+        <img src="./Asset/User_App2.png" alt="User App" width="150"/>
       </a>
       <br><a href="https://github.com/Moses-Code-Dev/Djowda-UserApp">User App</a>
     </td>
