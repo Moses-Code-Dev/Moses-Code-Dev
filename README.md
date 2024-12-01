@@ -1,6 +1,10 @@
 <!-- Banner Image -->
 [![Djowda Project](./Asset/Djowda_Project.png)](https://github.com/Moses-Code-Dev/Djowda-Platform)  
 
+<p align="center">
+  <img src="Asset/Overview.gif" alt="Djowda Platform">
+</p>
+
 <!-- Project Description -->
 [**Djowda Project** - *Empowering a World Without Hunger*](https://github.com/Moses-Code-Dev/Djowda-Platform)  
 
